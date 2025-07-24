@@ -853,7 +853,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Valk360
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -861,7 +861,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Valk360
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Valk360
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
